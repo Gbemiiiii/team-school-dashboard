@@ -1,0 +1,27 @@
+body{
+    /* background-color: skyblue; */
+    /* background-color: beige; */
+     background-color: #5595e8; ;
+    
+}
+li{
+    margin-bottom: 30px;
+    /* background-color: black; */
+    text-decoration: overline;
+}
+ul{
+  width: 15%;
+  background-color: aqua;
+  margin-top: 30px;
+  color: rgb(42, 42, 36);
+  padding-top: 30px;
+  height: 4 00px;
+}
+li:hover{
+    background-color: grey;
+}
+table{
+    
+    margin-bottom: 3em;
+    
+}
